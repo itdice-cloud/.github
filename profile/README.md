@@ -1,0 +1,25 @@
+<div align="center">
+
+# IT DICE Cloud
+
+**개인 홈랩으로 운영하는 셀프호스팅 인프라 프로젝트**
+
+[![Website](https://img.shields.io/badge/site-itdice.net-blue)](https://itdice.net)
+
+</div>
+
+---
+
+## 소개
+
+**IT DICE Cloud**는 개인 홈랩을 기반으로 직접 구축하고 운영하는 셀프호스팅 인프라 프로젝트입니다.
+단순히 서비스를 올리는 것을 넘어서, **하나의 계정으로 모든 서비스에 안전하게 접근할 수 있는 통합 인증 환경**을 만드는 걸 목표로 하고 있어요.
+
+앞으로 이 조직 아래에 다양한 서비스와 프로젝트들이 하나씩 추가될 예정입니다.
+자세한 구성 요소나 기술 스택은 실제로 쌓이는 대로 이 리드미에도 채워 넣을 계획이에요.
+
+---
+
+<div align="center">
+made by IT DICE
+</div>
